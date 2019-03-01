@@ -9,3 +9,14 @@ C:\Users\alberto.veloso\Documents\Projetos\GameTOP\obj\Debug\netcoreapp2.2\GameT
 C:\Users\alberto.veloso\Documents\Projetos\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfo.cs
 C:\Users\alberto.veloso\Documents\Projetos\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.dll
 C:\Users\alberto.veloso\Documents\Projetos\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.pdb
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.deps.json
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.runtimeconfig.json
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.runtimeconfig.dev.json
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.dll
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.pdb
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csprojAssemblyReference.cache
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csproj.CoreCompileInputs.cache
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfoInputs.cache
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfo.cs
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.dll
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.pdb

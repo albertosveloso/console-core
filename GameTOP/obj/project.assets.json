@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alberto.veloso\\Documents\\Projetos\\GameTOP\\GameTOP.csproj",
+      "projectUniqueName": "c:\\Users\\alberto.veloso\\Documents\\Projetos\\learn-aspnetcore-angular\\GameTOP\\GameTOP.csproj",
       "projectName": "GameTOP",
-      "projectPath": "C:\\Users\\alberto.veloso\\Documents\\Projetos\\GameTOP\\GameTOP.csproj",
+      "projectPath": "c:\\Users\\alberto.veloso\\Documents\\Projetos\\learn-aspnetcore-angular\\GameTOP\\GameTOP.csproj",
       "packagesPath": "C:\\Users\\alberto.veloso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alberto.veloso\\Documents\\Projetos\\GameTOP\\obj\\",
+      "outputPath": "c:\\Users\\alberto.veloso\\Documents\\Projetos\\learn-aspnetcore-angular\\GameTOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
