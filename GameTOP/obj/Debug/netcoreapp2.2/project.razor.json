@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\alberto.veloso\\Documents\\Projetos\\GameTOP\\GameTOP.csproj",
+  "ProjectFilePath": "c:\\Users\\alberto.veloso\\Documents\\Projetos\\learn-aspnetcore-angular\\GameTOP\\GameTOP.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
