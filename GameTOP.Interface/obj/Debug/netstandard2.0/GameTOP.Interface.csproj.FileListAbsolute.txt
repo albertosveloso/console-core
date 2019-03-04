@@ -1,0 +1,9 @@
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.deps.json
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csprojAssemblyReference.cache
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csproj.CoreCompileInputs.cache
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfo.cs
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.pdb

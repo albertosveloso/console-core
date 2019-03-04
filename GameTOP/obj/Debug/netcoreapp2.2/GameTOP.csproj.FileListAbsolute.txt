@@ -20,3 +20,8 @@ C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\
 C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfo.cs
 C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.dll
 C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.pdb
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Interface.dll
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Lib.dll
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Lib.pdb
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTop\bin\Debug\netcoreapp2.2\GameTOP.Interface.pdb
+C:\Users\alberto.veloso\Documents\Projetos\learn-aspnetcore-angular\GameTop\obj\Debug\netcoreapp2.2\GameTOP.csproj.CopyComplete
