@@ -1,6 +1,6 @@
 namespace GameTOP
 {
-    public class Jogador1
+    public class Jogador1 : iJogador
     {
         
         public readonly string _Nome;

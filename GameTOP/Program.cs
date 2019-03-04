@@ -6,33 +6,11 @@ namespace GameTOP
     {
         static void Main(string[] args)
         {
-            var jogo = new JogoFODA(new Jogador("Beto"));
+            var jogo = new JogoFODA(
+                new Jogador1("Ronaldo"),
+                new Jogador2());
             jogo.IniciarJogo();
         }
     }
-
-    public class Jogador
-    {
-        public readonly string _Nome;
-
-        public Jogador(string nome)
-        {
-            _Nome = nome;
-        }
-        public void Chuta()
-        {
-            Console.Write($"{_Nome} esta chutando \n");
-        }
-
-        public void Corre()
-        {
-            Console.Write($"{_Nome} esta correndo \n");
-        }
-
-        public void Passe()
-        {
-            Console.Write($"{_Nome} esta passando");
-        }
-        
-    }
+  
 }
