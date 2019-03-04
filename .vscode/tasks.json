@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/GameTOP.csproj"
+                "${workspaceFolder}/GameTOP/GameTOP.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
