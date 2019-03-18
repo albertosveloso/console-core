@@ -37,3 +37,6 @@ $dotnet run --project GameTop/GameTOP.csproj
 
 ### Rodar um projeto escutando arquivos
 $dotnet watch run
+
+### Agradecimento
+Agradecimento ao amigo Beto
